@@ -2,6 +2,10 @@
 
 一个没有窗口、Dock 图标、菜单栏图标、选区边框和通知的 macOS 区域截图工具。
 
+## 下载
+
+从 [GitHub Releases](https://github.com/katetech-99/SilientShot/releases/latest) 下载最新版本，或直接下载 [SilentShot-1.0.0.dmg](https://github.com/katetech-99/SilientShot/releases/download/v1.0.0/SilentShot-1.0.0.dmg)。
+
 ## 使用
 
 1. 从 DMG 把 `SilentShot.app` 拖到“应用程序”。
